@@ -1,5 +1,5 @@
 ### Hi there, I'm Marius! 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=CS+Student+at+UBB+Cluj;Future+Software+Engineer;Passionate+about+Algorithms" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=CS+Student;@+FMI+UBB+Cluj" alt="Typing SVG" /></a>
 
 I'm a 2nd-year Computer Science student based in **Cluj-Napoca/Turda**, passionate about building efficient software and solving complex problems.
 
